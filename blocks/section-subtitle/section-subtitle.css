@@ -1,0 +1,10 @@
+.section-subtitle {
+  width: 60%;
+  margin: 0 auto;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  position: relative; /* для треугольника в блоке Kaufman */
+  z-index: 0; /* для треугольника в блоке Kaufman */
+}

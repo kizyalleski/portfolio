@@ -1,0 +1,10 @@
+.section-title {
+  width: 60%;
+  margin: 0 auto 20px;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+  position: relative; /* для треугольника в блоке Kaufman */
+  z-index: 0; /* для треугольника в блоке Kaufman */
+}

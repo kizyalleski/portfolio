@@ -1,0 +1,4 @@
+.table__heading_theme_dark {
+  position: relative; /* чтобы применить z-index и положить текст поверх треугольника */
+  z-index: 2;
+}
