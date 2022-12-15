@@ -1,3 +1,4 @@
 # How to learn
-Web page is written in html5 and css.
+Web page is written in html and css.
 Techniques used: Nested BEM, Animation, iframes, YouTube API.
+The page available via [link](https://link-url-here.org).
